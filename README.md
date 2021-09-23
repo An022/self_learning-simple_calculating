@@ -2,7 +2,7 @@
 Reference to Stanford University’s assignment CS106AP: Programming Methodologies in Python and CS106B: Programming Abstractions as practice, 
 focusing topic: simple calculating
 ## Projects Source Codes:
-* [01_hailstone](https://github.com/An022/stanCode-SC101/blob/main/SC101_Projects/breakout/breakout.py)
+* [01_hailstone](https://github.com/An022/stanCode-SC101/blob/main/SC101_Projects/breakout/breakout.py)\
   Implement a console program that simulates the execution of the Hailstone sequence by while loop, showing user every calculating steps until the sequence reachs to 1.
 
   ```
