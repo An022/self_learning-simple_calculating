@@ -26,7 +26,8 @@ focusing topic: simple calculating
   ```
   If user give the constant a, b and C, we can find roots of quadratic equation: a^2x+bx+c=0.
   pre-condition:Inform user put the constant(a,b and c) data in order to find root(s) of quadratic equation: a^2x+bx+c=0.
-  post-condition:Show user the root(s) of the quadratic equation: a^2x+bx+c=0 with the given input constant of a, b and c.
+  post-condition:Show user the root(s) of the quadratic equation: a^2x+bx+c=0 
+  with the given input constant of a, b and c.
   ```
 * [04_print_rocket](https://github.com/An022/self_learning-simple_calculating/blob/main/04_print_rocket/rocket.py)\
   This program should implement a console program that draws ASCII art - a rocket.\
